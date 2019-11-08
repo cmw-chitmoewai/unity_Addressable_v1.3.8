@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 5cdfe6b8f662b7a44abbc00325fdb367
+  m_BuildRemoteCatalog: 1
+  m_UniqueBundleIds: 0
+  m_RemoteCatalogBuildPath:
+    m_Id: 1c365610e290fc54a90a1b9f468bddf5
+  m_RemoteCatalogLoadPath:
+    m_Id: 72052ca104decf84a863e58472491f97
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 9806197e2b2702a49923d80512b6cb65, type: 2}
+  - {fileID: 11400000, guid: c92d24f68dc90c646aa55d85043650d3, type: 2}
+  - {fileID: 11400000, guid: 795d73913a193db489e8a82fece9c4ca, type: 2}
+  - {fileID: 11400000, guid: d08d8ba3d0013784883e1a2e9b76348c, type: 2}
+  - {fileID: 11400000, guid: ef0aaee0368a25c4da77900181ea0040, type: 2}
+  - {fileID: 11400000, guid: d225de6f496729d47ab2617959b451ae, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 3c06ff74b12ea734a90442a79f3511fb
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: e4aee2c83f2cf254e9ecde93ae73f264
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 268fd351f932c804f988cab5f1c81346
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 5ec1a9f705460084e8344744893a5d23
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 1c365610e290fc54a90a1b9f468bddf5
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 72052ca104decf84a863e58472491f97
+        m_Value: http://localhost/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: 0b3dcce2ec0d0df42b8d4da8f14189f8
+      m_ProfileName: DevelopmentWindows
+      m_Values:
+      - m_Id: e4aee2c83f2cf254e9ecde93ae73f264
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 268fd351f932c804f988cab5f1c81346
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 5ec1a9f705460084e8344744893a5d23
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 1c365610e290fc54a90a1b9f468bddf5
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 72052ca104decf84a863e58472491f97
+        m_Value: http://localhost/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: e4aee2c83f2cf254e9ecde93ae73f264
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 268fd351f932c804f988cab5f1c81346
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: 5ec1a9f705460084e8344744893a5d23
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: 1c365610e290fc54a90a1b9f468bddf5
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: 72052ca104decf84a863e58472491f97
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - music
+    - scene
+    - image
+    - number
+    - David
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 89eba578b7afffd4eadabf5f40f047f7, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 5e48c1c8f73d24d4da45c92abb1a0246, type: 2}
+  - {fileID: 11400000, guid: f3966f9b017870e4c9b974e88a370a41, type: 2}
+  - {fileID: 11400000, guid: 2937fe4ca44376d488f19c4737c5060f, type: 2}
+  - {fileID: 11400000, guid: 83cc2eb75104fbc4db9e1d4ee6e335ba, type: 2}
+  m_ActiveProfileId: 0b3dcce2ec0d0df42b8d4da8f14189f8
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []

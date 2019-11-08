@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote Sprite Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote Sprite Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dea53a26cb4b50c42a1425a5986e8a36
+  m_SerializeEntries:
+  - m_GUID: 2c8aed8b02b59294990f07e14c34dc83
+    m_Address: Assets/Images/animal-2029280_960_720.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - number
+  - m_GUID: 91ca302e370b44547afd06e5a72ffad2
+    m_Address: Mango
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - number
+  - m_GUID: a23d191d7cc37794daecd3c629a80de5
+    m_Address: Watermelon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - number
+  - m_GUID: b042d15d0cdc425459928fd51d68dd9d
+    m_Address: Assets/Images/animal-2029283_960_720.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - number
+  - m_GUID: cdd693d030331314ca5ef14c5446d601
+    m_Address: WatermelonFruit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - number
+  - m_GUID: d479eb722fe3d314c88a4ae4195166d8
+    m_Address: Assets/Images/animal-2029285_960_720.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - number
+  - m_GUID: e1ba0b3aab6c691459ea07d0f2cd5153
+    m_Address: Mermaid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - number
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 597fd08fc883f8343b1577e5d3bc813f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dcb399698a9ad4747957abb9ad1c83a7, type: 2}
+    - {fileID: 11400000, guid: 1ec063a5287a6764898a906308489084, type: 2}

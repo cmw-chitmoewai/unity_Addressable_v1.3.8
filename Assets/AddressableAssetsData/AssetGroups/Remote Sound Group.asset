@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote Sound Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote Sound Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fcfc7e3168794e84b96ba9b8fdb74be9
+  m_SerializeEntries:
+  - m_GUID: 1284cc01e9b107c46a889f659711fed9
+    m_Address: Assets/Audio/B1 David ENG/Magnesium.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - David
+  - m_GUID: 38dd96c1fd211564d8fb1d4daafd0c49
+    m_Address: Assets/Audio/B1 David ENG/Manganese.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - David
+  - m_GUID: 39cd20916cf82b446824f1dc8a753527
+    m_Address: Assets/Audio/B1 David ENG/Oxygen.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - David
+  - m_GUID: 530463d0f1a7ce24d8285559d06cead8
+    m_Address: Assets/Audio/B1 David ENG/Carbon.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - David
+  - m_GUID: a0cd1a22b126b174d9338b3faf0b54f9
+    m_Address: Assets/Audio/B1 David ENG/Silicon to change.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - David
+  - m_GUID: b0929042f09538a4e848ee7231c25a38
+    m_Address: Assets/Audio/B1 David ENG/Iron.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - David
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 597fd08fc883f8343b1577e5d3bc813f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ffb648b47e74ba84d87c82e02137edbb, type: 2}
+    - {fileID: 11400000, guid: 10351652b98d90b488322b077705b06c, type: 2}
